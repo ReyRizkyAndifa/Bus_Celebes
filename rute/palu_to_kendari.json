@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [119.8707, -0.8917],
+          [120.7, -1.5],
+          [121.4, -2.5],
+          [122.0, -3.3],
+          [122.5151, -3.9777]
+        ]
+      },
+      "properties": {
+        "nama_asal": "Palu",
+        "nama_tujuan": "Kendari",
+        "jarak": "798 km",
+        "durasi": "17 jam"
+      }
+    }
+  ]
+}

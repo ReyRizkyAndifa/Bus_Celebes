@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [119.8707, -0.8917],
+          [120.5, -0.5],
+          [121.0, 0.0],
+          [122.5, 0.5],
+          [124.0, 1.0],
+          [124.8421, 1.4748]
+        ]
+      },
+      "properties": {
+        "nama_asal": "Palu",
+        "nama_tujuan": "Manado",
+        "jarak": "853 km",
+        "durasi": "16 jam"
+      }
+    }
+  ]
+}
